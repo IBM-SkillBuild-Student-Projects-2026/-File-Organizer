@@ -19,3 +19,6 @@ The script scans a folder and moves files into categorized folders based on exte
 - Add logging system
 - Add GUI interface
 - Allow user to input folder path dynamically
+- 
+## Author
+Vicky
